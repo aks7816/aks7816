@@ -13,7 +13,7 @@
 <div>
   <img src="https://github.com/aks7816/aks7816/blob/main/Wolfram_Mathematica-Logo.wine.png" alt="math" width="120" hight="50">
   <img src="https://github.com/aks7816/aks7816/blob/main/images.png" alt="R"  width="120" hight="50">
-  <img src="https://github.com/aks7816/aks7816/blob/main/java-ar21.png" alt="Java"  width="120" hight="50">
+  <img src="https://github.com/aks7816/aks7816/blob/main/Java_programming_language_logo.svg.png" alt="Java"  width="120" hight="50">
   <img src="https://github.com/aks7816/aks7816/blob/main/python-programming-language.png" alt="Python"  width="120" hight="50">
 
 </div>
