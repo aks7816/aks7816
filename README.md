@@ -25,6 +25,9 @@
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
 
+# Contact
+- 📫 How to reach me: <a href="mailto:aksheythac@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href=https://www.linkedin.com/in/aksheytha-chelikavada-81b97a1a2/>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
 <!--
 **aks7816/aks7816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="#"><img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="500 " height="500" /></a>
