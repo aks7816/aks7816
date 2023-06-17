@@ -12,8 +12,9 @@
 # 🌸Languages & Skills🌸
 <div>
   <img src="https://github.com/aks7816/aks7816/blob/main/Wolfram_Mathematica-Logo.wine.png" alt="math" width="120" hight="50">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="c++"  width="100" hight="50">
+  <img src="https://github.com/aks7816/aks7816/blob/main/images.png" alt="R"  width="100" hight="50">
+  <img src="https://github.com/aks7816/aks7816/blob/main/java-ar21.png" alt="Java"  width="100" hight="50">
+  <img src="  https://github.com/aks7816/aks7816/blob/main/python-programming-language.png" alt="Python"  width="100" hight="50">
 
 </div>
 
