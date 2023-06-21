@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">  
-# 📫Contact📫
-### Reach me at:  <a href="mailto:aksheythac@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href=https://www.linkedin.com/in/aksheytha-chelikavada-81b97a1a2/>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
+
 
 <!--
 **aks7816/aks7816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
