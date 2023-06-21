@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img hight="100" width="500" alt="GIF" align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif">
+<img hight="100" width="200" alt="GIF" align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif">
 
 # ✨About me✨
 
