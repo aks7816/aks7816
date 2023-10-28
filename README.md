@@ -4,7 +4,8 @@
 
 # ✨About me✨
 
-### I am a student specializing in all the quirks of machine learning and artificial intelligence😃 I have worked on a variety of projects from Python to Java. Right now, I am working on a few new projects, playing Assassin's Creed, and eating chocolate🍫
+### I am an enthusiastic student aspiring to specialize in all things related to machine learning and artificial intelligence! I have worked on various projects, some of which I share here. In my spare time, I love to bake, play with my sister and little cousin, and eat chocolate🍫
+
 <p align="center">
 <img alt="loficity" width="400px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
