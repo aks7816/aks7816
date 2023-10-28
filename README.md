@@ -4,7 +4,7 @@
 
 # ✨About me✨
 
-### I am an enthusiastic student aspiring to specialize in all things related to machine learning and artificial intelligence! I have worked on various projects, some of which I share here. In my spare time, I love to bake, play with my sister and little cousin, and eat chocolate🍫
+### I am an enthusiastic student aspiring to specialize in all things related to machine learning and artificial intelligence! I have worked on various projects, some of which I share here. In my spare time, I love to bake, play Assassin's Creed, and eat chocolate🍫
 
 <p align="center">
 <img alt="loficity" width="400px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
